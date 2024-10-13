@@ -1,9 +1,8 @@
-.section_desc {
-  font-size: 24px;
-  line-height: 29.05px;
-  color: #20ff0d;
-  width: 1345px;
-  height: 58px;
+.logo {
+  width: 130px;
+  height: 64px;
+  border: 1px solid #4ca9e3;
+  margin: 32px 0 51px 40px;
 }
 
 .nav-a {
@@ -17,14 +16,29 @@
   color: #f50808;
 }
 
-a {
-  text-decoration: none;
+nav ul li {
+  margin-bottom: 12px;
 }
 
-.logo {
-  width: 130px;
-  height: 64px;
-  border: 1px solid #4ca9e3;
-  margin-top: 32px;
+.car-logo {
+  margin: 51px 0 51px 40px;
+  width: 1345px;
+  height: 720px;
+}
+
+.section_desc {
+  font-size: 24px;
+  line-height: 29.05px;
+  color: #20ff0d;
+  width: 1345px;
+  height: 58px;
   margin-left: 40px;
+}
+
+.footer-of-page {
+  margin: 51px 0 0 40px;
+}
+
+.instagram {
+  margin: 0 20px;
 }

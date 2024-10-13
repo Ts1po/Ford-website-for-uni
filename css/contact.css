@@ -1,0 +1,29 @@
+.logo {
+  width: 130px;
+  height: 64px;
+  border: 1px solid #4ca9e3;
+  margin: 32px 0 51px 40px;
+}
+
+.nav-a {
+  font-size: 20px;
+  line-height: 24.2px;
+  color: #128410;
+  margin-left: 40px;
+}
+
+.activeNav {
+  color: #f50808;
+}
+
+nav ul li {
+  margin-bottom: 12px;
+}
+
+.footer-of-page {
+  margin: 51px 0 0 40px;
+}
+
+.instagram {
+  margin: 0 20px;
+}
