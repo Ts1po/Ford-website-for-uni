@@ -1,0 +1,30 @@
+.section_desc {
+  font-size: 24px;
+  line-height: 29.05px;
+  color: #20ff0d;
+  width: 1345px;
+  height: 58px;
+}
+
+.nav-a {
+  font-size: 20px;
+  line-height: 24.2px;
+  color: #128410;
+  margin-left: 40px;
+}
+
+.activeNav {
+  color: #f50808;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  width: 130px;
+  height: 64px;
+  border: 1px solid #4ca9e3;
+  margin-top: 32px;
+  margin-left: 40px;
+}
