@@ -20,6 +20,26 @@ nav ul li {
   margin-bottom: 12px;
 }
 
+.block-section {
+  background: #d41ef2;
+  width: 448px;
+  margin: 0 auto;
+}
+
+.Contact-title {
+  border: 1px solid red;
+  color: white;
+  width: 355px;
+  height: 44px;
+  font-weight: 700px;
+  font-size: 36px;
+}
+
+.span-contact {
+  font-size: 20px;
+  color: #c0f6ef;
+}
+
 .footer-of-page {
   margin: 51px 0 0 40px;
 }
